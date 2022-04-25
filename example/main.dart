@@ -31,7 +31,7 @@ class Breakpoint extends BreakpointBase {
       });
 
   @override
-  int get gutter => findValue({0: 16, 800: 24, 1600: 50});
+  double get gutter => findValue({0: 16, 800: 24, 1600: 50});
 
   // Add one more property
   bool get expanded => orientation == Orientation.landscape || width >= 1600;
