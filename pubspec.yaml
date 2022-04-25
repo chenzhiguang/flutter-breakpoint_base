@@ -1,6 +1,6 @@
 name: breakpoint_base
-description: A base class to define Flutter breakpoint properties.
-version: 0.1.0
+description: A base class to define Flutter breakpoint properties and helpers.
+version: 0.1.1
 homepage: https://github.com/chenzhiguang/flutter-breakpoint_base
 repository: https://github.com/chenzhiguang/flutter-breakpoint_base
 
